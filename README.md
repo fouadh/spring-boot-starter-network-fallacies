@@ -11,3 +11,5 @@ specifies the odds to have a network failure.
 For example, a value of 2 says that there is one chance over two to get a 
 failure either before the external service is called (request failure) either after it has been called (response failure).
 
+See the sample app for a usage example.
+
